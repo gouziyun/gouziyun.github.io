@@ -1,7 +1,5 @@
 ## WELCOME TO GOUZIYUN
 
-The new GOUZIYUN site  [狗子云](https://www.gougoujiasu.xyz/) 
-
 狗子云最新地址 : [狗子云](https://www.gougoujiasu.xyz/) 
 
 ### V字仇杀队
