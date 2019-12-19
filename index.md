@@ -1,6 +1,6 @@
 ## WELCOME TO GOUZIYUN
 
-The new GOUZIYUN site [狗子云](https://www.gougoujiasu.xyz/).
+The new GOUZIYUN site :point_right::point_right::point_right: [狗子云](https://www.gougoujiasu.xyz/) :point_left::point_left::point_left:
 
 ### V字仇杀队
 
